@@ -1,7 +1,5 @@
-# Wąż
+# Serwer Raspberry
 
-Odsłona popularnego w latach '80 węża w odsłonie javascript
+codzienne zmainy słów kulinarnych 
+opcjonalnie pogoda, kurs bitcoina, USD
 
-## Living
-
-400% 400$
