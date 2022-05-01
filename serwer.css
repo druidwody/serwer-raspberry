@@ -9,6 +9,23 @@ body {
     justify-content: center;
 }
 
-#1 {
-    text-align: center;
+.duże_pudło {
+    background-color: grey;
+    width: 700px;
+    height: 700px;
+    position: relative; 
+  }
+#wycentrowane {
+    position: absolute;
+    background-color: whitesmoke;
+    height: 600px;
+    width: 600px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+  }
+#7888 {
+    text-align: center; 
+    width: 400px;
+    height:400px;
 }
